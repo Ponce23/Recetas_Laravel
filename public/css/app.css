@@ -10932,8 +10932,8 @@ body {
   font-family: "Didact Gothic", sans-serif;
 }
 
-trix-editor {
-  min-height: 250px;
+#contenedor {
+  height: auto;
 }
 
 .bg-primary .navbar-brand {
